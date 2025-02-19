@@ -1,6 +1,6 @@
 ## Sobre ✔️
 
-Desenvolvi uma calculadora
+Desenvolvi uma calculadora utilizando HTML, CSS e JavaScript. O projeto foi criado com foco em funcionalidade e design intuitivo.
 <br>
 <br>
 
@@ -22,5 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Resultado 📷
 
 <div align="center">
-    <img src="/assets/image.jpeg" height="800" width="500"/>
+    <img src="./src/assets/image.jpeg" height="360" width="670"/>
 </div>
